@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    margin-top: 150px;
+    margin-left: 40px;
+    font-size: 40px;
+    display: block;
+}
+
+p {
+    margin-top: 150px;
+    margin-left: 40px;
+    font-size: 40px;
+    display: block;
+    margin-block-start: 0;
+}
+
+.btn{
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    border: transparent;
+    margin-left: 40px;
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+}
+
+.aside {
+    display: flex;
+    margin-left: 850px;
+    margin-top: -28%;
+}
+.aside-img{
+    width: 70%;
+    height: 500px;
+}
+
+.footer-ul{
+    list-style: none;
+    display: flex;
+    margin-left: 3rem;
+    margin: 0;
+}
+
+li{
+    margin-right: 50px;
+}
+
+
+.img{
+    width: 35px;
+    height: 30px;
+}
